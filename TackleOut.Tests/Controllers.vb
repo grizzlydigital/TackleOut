@@ -1,7 +1,7 @@
 ﻿Imports System.Text
 Imports System.Web.Mvc
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
-Imports TackleOut.Controllers
+Imports TackleOut.Web
 
 Namespace TackleOutTests.Controllers
 
